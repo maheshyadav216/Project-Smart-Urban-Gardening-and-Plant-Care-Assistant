@@ -5,7 +5,7 @@
   
 
 Smart home system that assists users in growing and maintaining indoor plants and small gardens.  
-# *Project is under development*  
+#### *Project is under development*  
 
 #### 🛠 Hardware  
 - Nordic Semiconductor nRF7002 Development Kit  
